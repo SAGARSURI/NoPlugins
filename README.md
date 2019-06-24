@@ -1,6 +1,6 @@
-# no_plugins
+# NoPlugins
 
-A new Flutter application.
+A new Flutter application showing how to write custom platform-specific code to access both Android and iOS platform specific APIs. I have used kotlin for android and swift for iOS. 
 
 ## Getting Started
 
